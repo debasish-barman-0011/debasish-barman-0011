@@ -1,4 +1,4 @@
-![logo](https://github.com/debasish-barman-0011/debasish-barman-0011/blob/main/github-header-image%20(2).png)
+![logo](https://github.com/debasish-barman-0011/debasish-barman-0011/blob/main/Debasish%20Barman.png)
 <h1 align="center">Hi 👋, I'm Debasish Barman.</h1>
 <h3 align="center">A passionate Full Stack(MERN) developer from West Bengal, India.</h3>
 
