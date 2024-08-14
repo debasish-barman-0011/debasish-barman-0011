@@ -1,4 +1,4 @@
-![logo](https://github.com/debasish-barman-0011/debasish-barman-0011/blob/main/Debasish%20Barman.png)
+![logo](https://github.com/debasish-barman-0011/debasish-barman-0011/commit/d4e9a659816bf23f5da50ba57172afc9749d8f8f)
 
 <h1 align="center">Namaste, I'm DEBASISH BARMAN</h1>
 <h3 align="center">A Passionate Full Stack Developer from West Bengal, India.</h3>
