@@ -1,7 +1,9 @@
-![logo](https://github.com/debasish-barman-0011/debasish-barman-0011/commit/d4e9a659816bf23f5da50ba57172afc9749d8f8f)
+![logo](https://github.com/debasish-barman-0011/debasish-barman-0011/blob/main/Debasish%20Barman.png)
 
 <h1 align="center">Namaste, I'm DEBASISH BARMAN</h1>
 <h3 align="center">A Passionate Full Stack Developer from West Bengal, India.</h3>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debasish-barman-0011&label=Profile%20views&color=0e75b6&style=flat" alt="debasish-barman-0011" /> </p>
 
