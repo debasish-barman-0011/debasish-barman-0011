@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/@debasish__1" target="blank"><img src="https://img.shields.io/twitter/follow/@debasish__1?logo=twitter&style=for-the-badge" alt="@debasish__1" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,BootStrap,Tailwind CSS, React JS, Node JS, Angular JS, PHP,Java,MySQL,MongoDB,Git,Linux and so on.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, BootStrap, React JS, Node JS, Express JS, PHP, Java, MySQL, MongoDB, Git, Linux and so on.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/debasish-barman-0011](https://github.com/debasish-barman-0011)
 
-- 💬 Ask me about **CSS, PHP, React, MySQL, Git**
+- 💬 Ask me about **CSS, JavaScript, React, MySQL, MongoDB & Git**
 
-- 📫 How to reach me **db.myjob.2023@gmail.com**
+- 📫 How to reach me **mail4barman@gmail.com**
 
 - ⚡ Fun fact **I'm very Funny😅😄**
 
