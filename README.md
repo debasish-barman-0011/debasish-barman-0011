@@ -1,4 +1,4 @@
-![logo](https://github.com/debasish-barman-0011/debasish-barman-0011/blob/main/Debasish%20Barman.png)
+![logo](https://github.com/debasish-barman-0011/debasish-barman-0011/blob/main/banner.png)
 
 <h1 align="center">Hello, I'm DEBASISH BARMAN</h1>
 <h3 align="center">A Passionate Web Developer Working @TCS | Ex-DC @Schoolnet.</h3>
